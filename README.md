@@ -61,4 +61,4 @@ RESISTENCIA CAPITULO 3
 
 - Barco, N. (8 de abril de 2012). Prezi. Obtenido de Celdas Fotoconductoras: https://prezi.com/vjjpmswptaxv/celdas-fotoconductoras/
 
--Segura, N. B. (16 de Mayo de 2021). Aprende institute. Obtenido de Aprende: https://aprende.com/blog/oficios/reparacion-electronica/tipos-de-diodos/
+- Segura, N. B. (16 de Mayo de 2021). Aprende institute. Obtenido de Aprende: https://aprende.com/blog/oficios/reparacion-electronica/tipos-de-diodos/
