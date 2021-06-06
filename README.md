@@ -1,0 +1,38 @@
+# Tarea-2-
+
+1. OBJETIVOS
+
+
+
+2. MARCO TEORICO
+
+RESISTENCIA CAPITULO 3
+
+![](https://user-images.githubusercontent.com/84397282/120918373-cbf36300-c679-11eb-99bb-003f792da64e.jpg)
+
+
+
+
+
+
+3. RESOLUCION DE PROBLEMAS
+
+
+
+
+
+4.VIDEO
+
+
+
+
+
+
+5. CONCLUSIONES
+
+
+
+
+
+
+6.BILIOGTAFIA
