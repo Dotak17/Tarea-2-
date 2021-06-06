@@ -2,6 +2,17 @@
 
 1. OBJETIVOS
 
+Objetivo general  Resistencia capitulo 3
+
+- Comprender el uso de los resistores, la teoría con respecto a los materiales que se usan para elaborar distintos tipos de resistencias, sus cálculos y unidades del sistema internacional (SI), a través del uso de los temas estudiados en el informe posterior, para su efectiva aplicación en modelos prácticos acerca de diagramas de circuitos electrónicos, en cálculos matemáticos y físicos.
+
+Objetivos especificos Resistencia capitulo 3
+
+- Reconocer el símbolo que representa la resistencia en el sistema internacional de unidades (SI) y sus respectivas unidades de medida.
+
+- Analizar los distintos tipos de resistores, sus aplicaciones y su clasificación a través de los colores que tenga cada resistencia.
+
+- Examinar la resistencia natural que tienen muchos de los materiales en conductores mediante distintos tipos de factores que afecten al material a ser mas resistente al paso de la corriente .
 
 
 2. MARCO TEORICO
