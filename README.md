@@ -51,9 +51,14 @@ RESISTENCIA CAPITULO 3
 
 5. CONCLUSIONES
 
+- Si bien los resistores son el tema principal de esta unidad, se pudo encontrar tipos de elementos electronicos con funcionamientos similares o con comportamientos de semiconductos como lo pueden ser  los diodos y varistores.
 
-
+- La resistencia de los materiales puede aumentar o disminuir dependiendo de una serie de condiciones y una de elllas es la temperatura, gracias a esta condicion para poder variar la resistencia de un material se han podido crear distintos tipos de elementos como Termistores, Transductores y celdas fotoconductoras.
 
 
 
 6.BILIOGTAFIA
+
+- Barco, N. (8 de abril de 2012). Prezi. Obtenido de Celdas Fotoconductoras: https://prezi.com/vjjpmswptaxv/celdas-fotoconductoras/
+
+-Segura, N. B. (16 de Mayo de 2021). Aprende institute. Obtenido de Aprende: https://aprende.com/blog/oficios/reparacion-electronica/tipos-de-diodos/
