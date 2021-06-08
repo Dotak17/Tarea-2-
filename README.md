@@ -27,6 +27,13 @@ RESISTENCIA CAPITULO 3
 
 ![](https://user-images.githubusercontent.com/84397282/120918378-cc8bf980-c679-11eb-9594-a5ab66b1b8f1.jpg)
 
+capitulo 4 2da parte 
+
+![](https://user-images.githubusercontent.com/84998013/121100407-63160300-c7bf-11eb-8cc4-1a0919dbe445.png)
+
+![](https://user-images.githubusercontent.com/84998013/121100472-880a7600-c7bf-11eb-969a-44ab3ad15540.png)
+
+
 
 
 
