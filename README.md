@@ -44,6 +44,7 @@ LEY DE OHM POTENCIA Y ENERGIA CAPITULO 4
 
 ![](https://user-images.githubusercontent.com/84998013/121100472-880a7600-c7bf-11eb-969a-44ab3ad15540.png)
 
+![](https://user-images.githubusercontent.com/84998005/121119699-b9943900-c7e1-11eb-9ad4-94a71c89a2fb.png)
 
 
 
