@@ -88,6 +88,26 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 Ejercicios CAPITULO 4 LEY DE OHM 
 
+![](https://user-images.githubusercontent.com/84397282/121133390-e18e9700-c7f7-11eb-938d-f337146d5231.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133392-e18e9700-c7f7-11eb-8d13-0c33e782db64.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133394-e2272d80-c7f7-11eb-901c-1f5a13f9906a.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133395-e2272d80-c7f7-11eb-9064-696238455892.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133380-dfc4d380-c7f7-11eb-846c-e3708f71190e.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133383-e05d6a00-c7f7-11eb-8167-87033449c3a4.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133385-e05d6a00-c7f7-11eb-80f5-1cda7f1453d3.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133386-e0f60080-c7f7-11eb-8e25-19f73cdf27ee.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133387-e0f60080-c7f7-11eb-9640-6e78e8a5df98.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121133389-e18e9700-c7f7-11eb-9518-a682a467930a.jpg)
+
 
 
 
