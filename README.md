@@ -20,11 +20,11 @@ Objetivos especificos Resistencia capitulo 3
 
 Objetivos especificos Ley de Ohm , potencia y energia capitulo 4.
 
--Comprender el concepto y en qué casos se aplicará la ley de Ohm. 
+- Comprender el concepto y los  casos en los que se aplicará la ley de Ohm. 
 
--Identificar la relación entre potencia y energía en sistemas eléctricos y electrónicos .
+- Identificar la relación entre potencia y energía en sistemas eléctricos y electrónicos 
 
--
+-  Estudiar lo que establece la ley de la conservación de la energía a su vez las características de las resistencias no lineales y dinámicas. 
 
 2. MARCO TEORICO
 
@@ -38,7 +38,7 @@ RESISTENCIA CAPITULO 3
 
 ![](https://user-images.githubusercontent.com/84397282/120918378-cc8bf980-c679-11eb-9594-a5ab66b1b8f1.jpg)
 
-capitulo 4 2da parte 
+LEY DE OHM POTENCIA Y ENERGIA CAPITULO 4 
 
 ![](https://user-images.githubusercontent.com/84998013/121100407-63160300-c7bf-11eb-8cc4-1a0919dbe445.png)
 
@@ -63,22 +63,6 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 ![](https://user-images.githubusercontent.com/84397282/120944546-b83c1100-c6fa-11eb-8634-011fa3e05456.jpg)
 
 ![](https://user-images.githubusercontent.com/84397282/120944547-b8d4a780-c6fa-11eb-8e56-fb57ad8e1c3e.jpg)
-
-![](https://user-images.githubusercontent.com/84397282/121107185-16392900-c7cd-11eb-9a0c-2ada2e974c96.jpg)
-
-![](https://user-images.githubusercontent.com/84397282/121107188-176a5600-c7cd-11eb-91e2-d5ee473417bd.jpg)
-
-![](https://user-images.githubusercontent.com/84397282/121107192-176a5600-c7cd-11eb-84e9-21bbe750c842.jpg)
-
-
-
-
-
-
-
-
-
-
 
 
 4.VIDEO
