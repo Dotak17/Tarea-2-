@@ -110,9 +110,17 @@ Ejercicios CAPITULO 4 LEY DE OHM
 
 - Se puede concluir que entre mayor es la capacidad de potencia de una lampara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
 
+- Las operaciones necesarias para conocer el voltaje, intensidad de corriente y resistencias vienen concebidas por la ley de Ohm, la cual se ve aplicada en diversos tipos de circuitos para hallar los datos faltantes de los mismos y poder completarlos.
+
+- La energía no se crea ni se destruye solo se transforma, esta ley se ha hecho denotar en los resistores no lineales  los cuales varían según el factor externo que se les aplique, cambiando su valor pero nunca desapareciendo y La resistencia dinámica de un componente que es su resistencia a la deformación cuando está sujeto a una carga variable.
+
 
 6.BIBLIOGRAFIA 
 
 - Barco, N. (8 de abril de 2012). Prezi. Obtenido de Celdas Fotoconductoras: https://prezi.com/vjjpmswptaxv/celdas-fotoconductoras/
 
 - Segura, N. B. (16 de Mayo de 2021). Aprende institute. Obtenido de Aprende: https://aprende.com/blog/oficios/reparacion-electronica/tipos-de-diodos/
+
+- Resistencias no lineales. (26 de noviembre de 2013). Obtenido de Diymakers: http://diymakers.es/resistencias-no-lineales/ 
+
+- Resistencia dinámica. (s. f). Obtenido de Item: https://glossar.item24.com/es/indice-de-glosario/articulo/item//resistencia-dinamica-2.html 
