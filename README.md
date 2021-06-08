@@ -137,7 +137,7 @@ Ejercicios CAPITULO 4 LEY DE OHM
 
 4.VIDEO
 
-
+https://www.youtube.com/watch?v=O3UB2mD_qPg
 
 5. CONCLUSIONES
 
