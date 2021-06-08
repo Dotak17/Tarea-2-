@@ -6,6 +6,8 @@ Objetivo general  Resistencia capitulo 3
 
 - Comprender el uso de los resistores, la teoría con respecto a los materiales que se usan para elaborar distintos tipos de resistencias, sus cálculos y unidades del sistema internacional (SI), a través del uso de los temas estudiados en el informe posterior, para su efectiva aplicación en modelos prácticos acerca de diagramas de circuitos electrónicos, en cálculos matemáticos y físicos.
 
+Objetivo general Ley de Ohm , potencia y energia capitulo 4 
+
 - Analizar el comportamiento de la corriente en circuitos resistivos mediante la ley de Ohm y así poder entender la relación entre el voltaje, resistencia y corriente parte fundamental de la teoría de circuitos .
 
 Objetivos especificos Resistencia capitulo 3
