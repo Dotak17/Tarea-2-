@@ -124,15 +124,18 @@ Ejercicios CAPITULO 4 LEY DE OHM
 
 ![](https://user-images.githubusercontent.com/84397282/121136982-db9ab500-c7fb-11eb-920b-041aa3de23ae.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121139313-3af9c480-c7fe-11eb-8296-c9504ecb428f.jpg)
 
+![](https://user-images.githubusercontent.com/84397282/121139314-3b925b00-c7fe-11eb-863e-93772dd4ba7b.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121139317-3b925b00-c7fe-11eb-9a37-b84812703fb3.jpg)
+
+![](https://user-images.githubusercontent.com/84397282/121139318-3c2af180-c7fe-11eb-95d1-11d55571d399.jpg)
 
 
 
 
 4.VIDEO
-
-
-
 
 
 
