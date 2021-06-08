@@ -62,7 +62,10 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 ![](https://user-images.githubusercontent.com/84397282/120944546-b83c1100-c6fa-11eb-8634-011fa3e05456.jpg)
 
-![](https://user-images.githubusercontent.com/84397282/120944547-b8d4a780-c6fa-11eb-8e56-fb57ad8e1c3e.jpg)
+![](https://user-images.githubusercontent.com/84397282/120944547-b8d4a780-c6fa-11eb-8e56-fb57ad8e1c3e.jpg) 
+
+
+![](https://user-images.githubusercontent.com/84998013/121109175-a9c02900-c7d0-11eb-9834-3390a254e4ac.png)
 
 
 4.VIDEO
