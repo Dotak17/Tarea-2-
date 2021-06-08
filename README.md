@@ -18,6 +18,13 @@ Objetivos especificos Resistencia capitulo 3
 
 - Examinar la resistencia natural que tienen muchos de los materiales en conductores mediante distintos tipos de factores que afecten al material a ser mas resistente al paso de la corriente .
 
+Objetivos especificos Ley de Ohm , potencia y energia capitulo 4.
+
+-Comprender el concepto y en qué casos se aplicará la ley de Ohm. 
+
+-Identificar la relación entre potencia y energía en sistemas eléctricos y electrónicos .
+
+-
 
 2. MARCO TEORICO
 
