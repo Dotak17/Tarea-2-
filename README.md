@@ -46,10 +46,9 @@ LEY DE OHM POTENCIA Y ENERGIA CAPITULO 4
 
 ![](https://user-images.githubusercontent.com/84998005/121119699-b9943900-c7e1-11eb-9ad4-94a71c89a2fb.png)
 
+![](https://user-images.githubusercontent.com/84998005/121123018-1f83bf00-c7e8-11eb-9a4f-19bccd76f105.png)
 
-
-
-
+![](https://user-images.githubusercontent.com/84998005/121123023-20b4ec00-c7e8-11eb-83b2-127ceb790ec4.png)
 
 
 
@@ -112,7 +111,7 @@ Ejercicios CAPITULO 4 LEY DE OHM
 - Se puede concluir que entre mayor es la capacidad de potencia de una lampara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
 
 
-6.BILIOGTAFIA
+6.BIBLIOGRAFIA 
 
 - Barco, N. (8 de abril de 2012). Prezi. Obtenido de Celdas Fotoconductoras: https://prezi.com/vjjpmswptaxv/celdas-fotoconductoras/
 
