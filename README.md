@@ -71,6 +71,7 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 ![](https://user-images.githubusercontent.com/84998013/121109370-0c192980-c7d1-11eb-9eeb-97a8343cb6f1.png)
 
+![](https://user-images.githubusercontent.com/84998013/121109478-4682c680-c7d1-11eb-89ed-6356f3f32fab.png)
 4.VIDEO
 
 
@@ -84,8 +85,7 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 - La resistencia de los materiales puede aumentar o disminuir dependiendo de una serie de condiciones y una de elllas es la temperatura, gracias a esta condicion para poder variar la resistencia de un material se han podido crear distintos tipos de elementos como Termistores, Transductores y celdas fotoconductoras.
 
-- Se puede concluir que entre mayor es la capacidad de potencia de una lámpara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
-
+- Se puede concluir que entre mayor es la capacidad de potencia de una lampara, mayor energía luminosa produce por segundo. Al igual entre mayor es la capacidad de potencia del elemento calefactor, más energía calorífica produce por segundo. Se puede notar la amplia relación que existe entre la energía y la potencia.
 
 
 6.BILIOGTAFIA
