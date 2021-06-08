@@ -73,6 +73,22 @@ Ejercicios CAPITULO 3 RESISTENCIAS
 
 ![](https://user-images.githubusercontent.com/84998013/121109478-4682c680-c7d1-11eb-89ed-6356f3f32fab.png)
 
+![](https://user-images.githubusercontent.com/84998005/121110985-bf831d80-c7d3-11eb-98c6-74c40bc87534.png)
+
+![](https://user-images.githubusercontent.com/84998005/121111007-c7db5880-c7d3-11eb-9213-1f6de56a6fc5.png)
+
+![](https://user-images.githubusercontent.com/84998005/121111003-c6119500-c7d3-11eb-9922-be474270125a.png)
+
+![](https://user-images.githubusercontent.com/84998005/121111000-c578fe80-c7d3-11eb-97ec-e879ddd46d5e.png)
+
+Ejercicios CAPITULO 4 LEY DE OHM 
+
+
+
+
+
+
+
 
 4.VIDEO
 
